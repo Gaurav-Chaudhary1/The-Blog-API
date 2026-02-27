@@ -23,7 +23,7 @@ A robust, production-ready RESTful API built with Node.js, Express, and MongoDB.
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone https://github.com/Gaurav-Chaudhary1/The-Blog-API.git
    cd your-repo-name
    
 2. **Install dependencies:**
@@ -40,3 +40,4 @@ A robust, production-ready RESTful API built with Node.js, Express, and MongoDB.
 
   # Or if you use nodemon for development
   npm run dev  
+
