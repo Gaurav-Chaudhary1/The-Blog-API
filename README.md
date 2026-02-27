@@ -24,6 +24,7 @@ A robust, production-ready RESTful API built with Node.js, Express, and MongoDB.
 
 1. **Clone the repository:**
    git clone https://github.com/Gaurav-Chaudhary1/The-Blog-API.git
+   
    cd your-repo-name
    
 2. **Install dependencies:**
@@ -31,13 +32,18 @@ A robust, production-ready RESTful API built with Node.js, Express, and MongoDB.
    
 3. **Environment Variables:**
    Create a .env file in the root directory and add the following:
+   
    PORT=5000
+   
    MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_super_secret_jwt_key 
+   
+   JWT_SECRET=your_super_secret_jwt_key
+   
 4. **Start the server:**
   # For standard node execution
     node server.js
 
   # Or if you use nodemon for development
   npm run dev  
+
 
